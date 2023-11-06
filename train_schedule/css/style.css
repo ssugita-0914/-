@@ -1,0 +1,107 @@
+
+
+   body {
+background-image:url(https://raillab.jp/img/user/train_photo/1110_3992/680.jpg);
+	background-repeat:repeat
+	}
+    body{
+        background-size: 135%auto;
+    
+    }
+
+
+//.btn{
+position: relative;
+left: 65px;
+top: 380px;
+
+opacity: 0.5;
+
+    width: 50px;
+  height: 10000px;
+    border-radius: 50px 50px 50px 50px;
+    padding:20px;
+    background-color:rgb(231, 224, 224);
+    text-decoration: black;
+    color:black;
+}
+
+.btn1{
+position: relative;
+left:140px;
+top: 380px;
+
+opacity: 0.6;
+
+    width: 50px;
+  height: 10000px;
+    border-radius: 50px 50px 50px 50px;
+    padding:20px;
+    background-color:rgb(231, 224, 224);
+    text-decoration: black;
+    color:black;
+}
+
+
+.btn2{
+opacity: 0.6;
+
+    width: 50px;
+  height: 10000px;
+    border-radius: 50px 50px 50px 50px;
+    padding:50px;
+    background-color:rgb(231, 224, 224);
+    text-decoration: black;
+    color:black;
+}
+
+span.btn{
+    font-family: Arial black;}
+
+#form1{
+    position:relative;
+    max-width: 300px;
+    margin-bottom:20px;
+}
+#box1{
+    height:50px;
+    padding:0 10px;
+    position:absolute;
+    left:0;
+    top:0;
+    border-radius:2px;
+    outline:0;
+    background:#eee;
+}
+#form1{
+position:relative; 
+margin-bottom:20px;	
+}
+#sbox1{	
+outline:0;	
+height:50px;
+padding:0 10px; 
+position:absolute; 
+left:0;
+top:0; 
+max-width:270px;
+border-radius:2px;
+background:#eee;
+}
+
+
+
+ #sbtn1{
+    height:50px;
+    position:absolute;
+     left:255px;
+    top:0;
+    background: #7fbfff;
+     color:#eee;
+    border:none;
+    font-size:20px; 
+}
+#sbtn1:hover{
+    background:#7fbfff;
+    color:#7fbfff;
+} 

@@ -1,0 +1,48 @@
+/* This is a CSS file */
+
+.btn2{
+opacity: 0.6;
+
+    width: 50px;
+  height: 10000px;
+    border-radius: 50px 50px 50px 50px;
+    padding:50px;
+    background-color:rgb(231, 224, 224);
+    text-decoration: black;
+    color:black;
+}
+
+    #form1{
+position:relative; 
+margin-bottom:20px;	
+}
+
+#sbox1{	
+outline:0;	
+height:32px;
+padding:0px; 
+position:absolute; 
+left:25%;
+top:285px; 
+max-width:270px;
+border-radius:2px;
+background:#eee;
+}
+
+
+
+ #sbtn1{
+    height:35px;
+    position:absolute;
+     left:256px;
+    top:285px;
+    background: #7fbfff;
+     color:#eee;
+    border:none;
+    font-size:20px; 
+}
+
+#sbtn1:hover{
+    background:#7fbfff;
+    color:#7fbfff;
+} 
